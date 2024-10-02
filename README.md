@@ -1,7 +1,7 @@
 <img align="center" alt="Coding1" width="4000" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 <h1 align="center">Hi, I'm Justine Polintan</h1>
 
-<h3 align="center">A 2nd year IT student from National University
+<h3 align="center">An IT student from National University
   </span>
     <a href="https://national-u.edu.ph/"><img alt="NU Logo" width="29" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/NU_shield.svg/800px-NU_shield.svg.png" style="display: inline-block; vertical-align: middle;"></a></h3>
     
